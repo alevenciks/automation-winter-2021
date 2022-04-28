@@ -7,4 +7,4 @@ Feature: user
     Then the user gets status code "<statusCode>"
     Examples:
       | statusCode |
-      | 200        |
+      | 401        |
